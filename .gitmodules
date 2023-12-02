@@ -1,0 +1,4 @@
+[submodule "JeansGNN"]
+	path = JeansGNN
+	url = git@github.com:trivnguyen/JeansGNN.git
+	branch = dev-unstable
